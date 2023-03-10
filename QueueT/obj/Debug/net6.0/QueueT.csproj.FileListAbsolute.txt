@@ -1,0 +1,15 @@
+C:\Users\meesh\source\repos\QueueT\QueueT\bin\Debug\net6.0\QueueT.exe
+C:\Users\meesh\source\repos\QueueT\QueueT\bin\Debug\net6.0\QueueT.deps.json
+C:\Users\meesh\source\repos\QueueT\QueueT\bin\Debug\net6.0\QueueT.runtimeconfig.json
+C:\Users\meesh\source\repos\QueueT\QueueT\bin\Debug\net6.0\QueueT.dll
+C:\Users\meesh\source\repos\QueueT\QueueT\bin\Debug\net6.0\QueueT.pdb
+C:\Users\meesh\source\repos\QueueT\QueueT\obj\Debug\net6.0\QueueT.csproj.AssemblyReference.cache
+C:\Users\meesh\source\repos\QueueT\QueueT\obj\Debug\net6.0\QueueT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meesh\source\repos\QueueT\QueueT\obj\Debug\net6.0\QueueT.AssemblyInfoInputs.cache
+C:\Users\meesh\source\repos\QueueT\QueueT\obj\Debug\net6.0\QueueT.AssemblyInfo.cs
+C:\Users\meesh\source\repos\QueueT\QueueT\obj\Debug\net6.0\QueueT.csproj.CoreCompileInputs.cache
+C:\Users\meesh\source\repos\QueueT\QueueT\obj\Debug\net6.0\QueueT.dll
+C:\Users\meesh\source\repos\QueueT\QueueT\obj\Debug\net6.0\refint\QueueT.dll
+C:\Users\meesh\source\repos\QueueT\QueueT\obj\Debug\net6.0\QueueT.pdb
+C:\Users\meesh\source\repos\QueueT\QueueT\obj\Debug\net6.0\QueueT.genruntimeconfig.cache
+C:\Users\meesh\source\repos\QueueT\QueueT\obj\Debug\net6.0\ref\QueueT.dll
